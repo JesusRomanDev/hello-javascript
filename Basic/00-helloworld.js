@@ -12,6 +12,7 @@ un comentario
 en varias líneas
 */
 
+//Editando la line
 console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
